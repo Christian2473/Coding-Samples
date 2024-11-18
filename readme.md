@@ -3,7 +3,7 @@
 ## Author
 Christian Archibald
 
-## Homework problem done for BU MSMFT Questrom School of Business class MF703
+## Homework problems done for BU MSMFT Questrom School of Business class MF703
 
 ## Implementation
-This project includes implementations and supplementary materials for reference.
+This project includes implementations and supplementary materials for reference. The samples per language are marked by the folder name
