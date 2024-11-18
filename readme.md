@@ -1,10 +1,9 @@
-# Homework 3 Programming
+# C++ Example
 
 ## Author
-Christian
+Christian Archibald
 
-## Instructions
-Please read through the output for all answers to your questions. They are clearly marked after red text.
+## Homework problem done for BU MSMFT Questrom School of Business class MF703
 
 ## Implementation
 This project includes implementations and supplementary materials for reference.
